@@ -6,4 +6,3 @@ class Artist
     @genre = genre
   end
 end
-song.artist = name
